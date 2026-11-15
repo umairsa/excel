@@ -1,0 +1,2 @@
+"Count only text cells, excluding formulas that return “” in Microsoft Excel"
+=COUNTIF(A2:H100,"?*")
